@@ -1,0 +1,3 @@
+pandoc archivo.md -o archivo.pdf
+
+**Ejecutar dentro de WSL!!!!!*
